@@ -1,10 +1,11 @@
 # BlogPeadia-e-Shoping
 
-📌 Introduction
+📌 Introduction of project
 
 BlogPeadia-e-Shoping is an e-commerce web application that integrates a blogging platform with product listings and purchasing functionality. The project aims to provide informative and review-based content about products, helping users understand the value and usability of items before purchasing.
 
-Each article focuses on a specific product or category, offering in-depth reviews and highlighting how the product reduces human effort. After reading the blog post, users are provided with a direct purchasing link that redirects them to an e-commerce platform, where they can buy the product.
+Each article focuses on a specific product or category, offering in-depth reviews and highlighting how the product reduces human effort. After reading the bloggit status
+ post, users are provided with a direct purchasing link that redirects them to an e-commerce platform, where they can buy the product.
 
 🎯 Purpose
 
